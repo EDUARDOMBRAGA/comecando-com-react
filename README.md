@@ -1,2 +1,2 @@
 # comecando-com-react
-Projeto do React do curso do jscast
+Projeto com React do curso do jscast
